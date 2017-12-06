@@ -1,0 +1,19 @@
+lily,2,5,4,22,0
+amaryllis,2,1,1,5,1
+bell flower,0,6,11,19,1
+carnation,2,6,4,25,1
+orchid,2,3,2,6,1
+flamingo flower,1,6,12,6,1
+hyacinth,1,6,2,7,0
+lavender,0,7,4,8,1
+marguerite,1,5,11,22,0
+chrysanthemum,1,1,4,8,0
+daisy,0,4,9,7,1
+mimosa,1,7,3,16,0
+acacia,2,7,7,2,0
+rose,2,1,1,9,1
+sunflower,0,7,9,19,0
+sword lily,0,4,12,25,1
+narcissus,2,7,9,4,0
+tuberose,0,4,5,14,1
+tulip,2,6,4,22,0
